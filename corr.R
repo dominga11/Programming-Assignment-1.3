@@ -10,4 +10,4 @@ corr <- function(directory, threshold=0) {
     as.numeric(CompleteData)
   }
   return(cr)
-}
+} 
